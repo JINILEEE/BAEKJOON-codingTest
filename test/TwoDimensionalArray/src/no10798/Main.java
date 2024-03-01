@@ -28,6 +28,8 @@ public class Main {
 		char arr[][] = new char[5][15];
 		
 		//입력받은 문자 그래도 출력
+		// length: arrays(int[], double[], String[]), 배열의 길이
+		// length(): String related Object(String, StringBuilder etc), 문자열의 길이
 		for(int i=0; i<arr.length; i++) {
 			String str = br.readLine();
 			
