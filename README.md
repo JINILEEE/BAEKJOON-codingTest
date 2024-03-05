@@ -1,5 +1,5 @@
 # BAEKJOON-codingTest
-<br /><br /><br />
+<br /><br />
 <h1>백준 코테 풀이 코드</h1>
 <b>Since 2024.02.23 ~ ing</b>
 
